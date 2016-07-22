@@ -43,15 +43,7 @@
 						To Date:</label></td>
 				<td><input type="text" name="age" value="0" id="extToDate" />
 				</td>
-			</tr>
-			
-			<tr>
-				<td class="table"><label for="AddressLine" class="label">Address Line
-						:</label></td>
-				<td><input type="text" name="age" value="Enter Text" id="Address" />
-				</td>
-			</tr>
-			
+			</tr>			
 			</tr>
 			</tr>
 
