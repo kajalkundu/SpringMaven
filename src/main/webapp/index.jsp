@@ -9,7 +9,7 @@ pageEncoding="ISO-8859-1"%>
 
 </head>
 <body>
-<h2>This is a Spring Maven Project !!!</h2>
+<h2>A Spring Maven Project !!!</h2>
 <h3>
 <a href="hello?name=naga">Click here</a>
 </h3>
