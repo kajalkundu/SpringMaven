@@ -43,7 +43,7 @@
 						To Date:</label></td>
 				<td><input type="text" name="age" value="0" id="extToDate" />
 				</td>
-			</tr>			
+			</tr>
 			</tr>
 			</tr>
 

@@ -38,8 +38,8 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
-		
-		  
+ 
+ 
   </dependencies>
   <build>
     <finalName>SpringMVC</finalName>
@@ -68,7 +68,7 @@
       </execution>
     </executions>
     <configuration>
-      <executable>D:\Apache Tomcat\bin\startup.bat</executable>
+      <executable>D:/Naga/Softwares/Apache Tomcat/bin/startup.bat</executable>
     </configuration>
   </plugin>
     	
