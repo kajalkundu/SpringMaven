@@ -11,7 +11,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
 <h2>This is Spring MVC Project</h2>
 <h3>
-<a href="hello?name=naga">Click here</a>
+<a href="hello?name=MVC">Click here</a>
 </h3>
 </body>
 </html>
