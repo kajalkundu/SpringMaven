@@ -68,7 +68,7 @@
       </execution>
     </executions>
     <configuration>
-      <executable>D:/Naga/Softwares/Apache Tomcat/bin/startup.bat</executable>
+      <executable>D:\Apache Tomcat\bin\startup.bat</executable>
     </configuration>
   </plugin>
     	
