@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Spring 4 MVC - Hello World Index Page</title>
+<title>Spring MVC - Hello World Index Page</title>
 
 </head>
 <body>
