@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0</version>
   <name>SpringMVC Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <url>http://maven.apache1.org</url>
   
   	<properties>
 		<spring.version>4.0.1.RELEASE</spring.version>
