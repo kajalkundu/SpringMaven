@@ -9,8 +9,7 @@
 
 </head>
 <body>
-<<<<<<< HEAD
-<h2>Welcome To MSK  SUS DevOPS Jenkins Sep 09  2016 14:30 !!</h2>
+<h2>Welcome To MSK  SUS DevOPS Jenkins Sep 09  2016 15:17 BST !!</h2>
 
 <h3>
 <a href="hello?name=naga">Click here</a>
